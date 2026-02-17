@@ -18,7 +18,7 @@ export default function ContactPage() {
           </div>
           <div>
             <label htmlFor="email" className="block text-sm font-medium text-gray-700">Email</label>
-            <input type="email" id="email" name="email" className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm p-3 border" placeholder="you@company.com" />
+            <input type="email" id="email" name="email" className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm p-3 border" placeholder="your.email@example.com" />
           </div>
           <div>
             <label htmlFor="message" className="block text-sm font-medium text-gray-700">Message</label>
@@ -33,7 +33,7 @@ export default function ContactPage() {
       </form>
 
       <div className="mt-12 text-center text-gray-600">
-        <p>Or email us directly at: <a href="mailto:consulting@mentatsietch.com" className="text-blue-600 hover:underline">consulting@mentatsietch.com</a></p>
+        <p>Or email us directly at: <a href="mailto:nandhini.anandj@gmail.com" className="text-blue-600 hover:underline">nandhini.anandj@gmail.com</a></p>
       </div>
     </div>
   );
