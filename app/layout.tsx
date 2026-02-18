@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mentat Sietch | Consultancy",
-  description: "Consultancy for AI, Data, and Decision Systems. Designing systems teams can trust.",
+  title: "Mentat Sietch | Nandhini Anand — AI Architect & Consultant",
+  description: "Nandhini Anand is a Senior AI Architect building production AI infrastructure. From scaling to 2M users to running models on the edge.",
 };
 
 export default function RootLayout({
