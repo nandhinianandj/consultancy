@@ -16,6 +16,9 @@ export default function Navbar() {
           <Link href="/contact" className="bg-blue-600 text-white px-4 py-2 rounded-full font-medium text-sm hover:bg-blue-700 transition">
             Contact
           </Link>
+          <Link href="/portfolio" className="bg-gray-100 text-gray-700 px-4 py-2 rounded-full font-medium text-sm hover:bg-gray-200 transition">
+            Portfolio
+          </Link>
         </div>
       </div>
     </nav>
