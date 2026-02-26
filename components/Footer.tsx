@@ -14,7 +14,7 @@ export default function Footer() {
         <div className="flex justify-center gap-6 mb-6">
           <a href="https://linkedin.com/in/nandhinianand" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-blue-600 font-medium">LinkedIn</a>
           <a href="https://github.com/nandhinianandj" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-gray-900 font-medium">GitHub</a>
-          <a href="/Nandhini_Anand_AI_Architect.pdf" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-red-600 font-medium">Resume</a>
+          <a href="/resume.html" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-red-600 font-medium">Resume</a>
         </div>
 
         <p>&copy; {new Date().getFullYear()} Mentat Sietch Consultancy. All rights reserved.</p>
